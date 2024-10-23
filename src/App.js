@@ -34,7 +34,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>VooshFoods-Interview</h1>
+        <h1>VooshFoods-Screening</h1>
         {user && (
           <div className="user-info">
             <img
@@ -69,7 +69,7 @@ function App() {
       </main>
 
       <footer className="App-footer">
-        <p>© 2024 VooshFoods. All rights reserved.</p>
+        <p>© 0000 VooshFoods-Screening. All rights reserved.</p>
       </footer>
     </div>
   );
